@@ -1,2 +1,11 @@
-# algorithms-practice
-Practice repository for algorithms and data structures, implemented in C++
+# Algorithmic Practice
+
+This repository contains selected solutions  
+to algorithmic problems used for personal practice.
+
+---
+Current sections
+---
+- Dynamic Programming
+- Greedy
+- Data structures
